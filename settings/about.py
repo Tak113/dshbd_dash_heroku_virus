@@ -1,0 +1,1 @@
+txt = 'Select a country and model will will return trend and forecast'
